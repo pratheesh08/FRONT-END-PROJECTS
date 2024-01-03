@@ -16,7 +16,7 @@ body{
 
 }
 .maincard{
-    scale: .7;
+   
 display: flex;
 justify-content: center;
 align-items: center;
@@ -106,7 +106,7 @@ font-size: 80px;
     font-size: 30px;
     display: none;
 }
-@media  screen and (max-width:2990px) {
+/* @media  screen and (max-width:2990px) {
     .maincard{
         scale: 2;
     }
@@ -123,4 +123,4 @@ font-size: 80px;
         scale: .7 !important;
     }
     
-}
+} */
